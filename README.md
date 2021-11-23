@@ -1,10 +1,10 @@
-# Проект UCode IT Academy - LibMX
+# UCode IT Academy project - LibMX
 Library
 
 <h2>languages and tools</h2>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pmarchenkoucode.libmx-ucode)
