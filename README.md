@@ -11,7 +11,7 @@ Library
 
 <br>
 
-<img align="center" alt="GIF" src="https://github.com/PmarchenkoUCode/Libmx-UCode/blob/main/libmx.png" width="720" height="100"/>
+<img align="center" alt="GIF" src="https://github.com/PmarchenkoUCode/Libmx-UCode/blob/main/libmx.png" width="400" height="100"/>
 
 | git clone        |
 | ---------------- |
