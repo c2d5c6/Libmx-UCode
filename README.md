@@ -16,7 +16,7 @@ Library
 <h2>Function</h2>
 
 -------- UTILS --------
-# mx_printchar
+## mx_printchar
 # mx_print_unicode
 # mx_printstr
 # mx_print_strarr
