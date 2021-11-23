@@ -25,33 +25,33 @@ https://github.com/PmarchenkoUCode/Libmx-UCode.git
 <h2>Function</h2>
 
 ## -------- UTILS --------
-#### mx_printchar
+| mx_printchar     |
 | ---------------- |
-#### mx_print_unicode
+| mx_print_unicode |
 | ---------------- |
-#### mx_printstr
+| mx_printstr      |
 | ---------------- |
-#### mx_print_strarr
+| mx_print_strarr  |
 | ---------------- |
-#### mx_printint
+| mx_printint      |
 | ---------------- |
-#### mx_pow
+| mx_pow           |
 | ---------------- |
-#### mx_sqrt
+| mx_sqrt          |
 | ---------------- |
-#### mx_nbr_to_hex
+| mx_nbr_to_hex    |
 | ---------------- |
-#### mx_hex_to_nbr
+| mx_hex_to_nbr    |
 | ---------------- |
-#### mx_itoa
+| mx_itoa          |
 | ---------------- |
-#### mx_foreach
+| mx_foreach       |
 | ---------------- |
-#### mx_binary_search
+| mx_binary_search |
 | ---------------- |
-#### mx_bubble_sort
+| mx_bubble_sort   |
 | ---------------- |
-#### mx_quicksort
+| mx_quicksort     |
 | ---------------- |
 
 ## ======== STRING PACK ========
