@@ -13,13 +13,16 @@ Library
 
 <img align="center" alt="GIF" src="https://github.com/PmarchenkoUCode/Libmx-UCode/blob/main/libmx.png" width="720" height="100"/>
 
-| ##### git clone  |
+| git clone        |
 | ---------------- |
 ```md 
 | https://github.com/PmarchenkoUCode/Libmx-UCode.git
 ```
-| ##### cd Libmx-UCode
-| ##### make run
+| ---------------- |
+| cd Libmx-UCode
+| ---------------- |
+| make run
+| ---------------- |
 
 <h2>Function</h2>
 
