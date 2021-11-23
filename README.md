@@ -24,15 +24,15 @@ https://github.com/PmarchenkoUCode/Libmx-UCode.git
 
 <h2>Function</h2>
 
-|      UTILS       |   STRING PACK   |
-| ---------------- |---------------- |
-| mx_printchar     |  mx_isspace
-| mx_print_unicode |  mx_strlen
-| mx_printstr      |  mx_swap_char
-| mx_print_strarr  |  mx_str_reverse
-| mx_printint      |  mx_strdel
-| mx_pow           |  mx_del_strarr
-| mx_sqrt          |  mx_get_char_index
+|      UTILS       |   STRING PACK   |   MEMORY PACK   |
+| ---------------- |---------------- |---------------- |
+| mx_printchar     |  mx_isspace        |
+| mx_print_unicode |  mx_strlen         |
+| mx_printstr      |  mx_swap_char      |
+| mx_print_strarr  |  mx_str_reverse    |
+| mx_printint      |  mx_strdel         |
+| mx_pow           |  mx_del_strarr     |
+| mx_sqrt          |  mx_get_char_index |
 | mx_nbr_to_hex    |  mx_strdup
 | mx_hex_to_nbr    |  mx_strndup
 | mx_itoa          |  mx_strcpy
