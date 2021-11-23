@@ -11,7 +11,12 @@ Library
 
 <br>
 
-<img align="center" alt="GIF" src="https://github.com/PmarchenkoUCode/Libmx-UCode/blob/main/libmx.png" width="1280" height="480"/>
+<img align="center" alt="GIF" src="https://github.com/PmarchenkoUCode/Libmx-UCode/blob/main/libmx.png" width="720" height="100"/>
+
+
+### git clone [![PMarchenkoUCode GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarchenko)](https://github.com/PmarchenkoUCode/Libmx-UCode.git)
+### cd Libmx-UCode
+### make run
 
 <h2>Function</h2>
 
