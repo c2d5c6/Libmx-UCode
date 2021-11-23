@@ -28,31 +28,18 @@ https://github.com/PmarchenkoUCode/Libmx-UCode.git
 | mx_printchar     |
 | ---------------- |
 | mx_print_unicode |
-| ---------------- |
 | mx_printstr      |
-| ---------------- |
 | mx_print_strarr  |
-| ---------------- |
 | mx_printint      |
-| ---------------- |
 | mx_pow           |
-| ---------------- |
 | mx_sqrt          |
-| ---------------- |
 | mx_nbr_to_hex    |
-| ---------------- |
 | mx_hex_to_nbr    |
-| ---------------- |
 | mx_itoa          |
-| ---------------- |
 | mx_foreach       |
-| ---------------- |
 | mx_binary_search |
-| ---------------- |
 | mx_bubble_sort   |
-| ---------------- |
 | mx_quicksort     |
-| ---------------- |
 
 ## ======== STRING PACK ========
 #### mx_isspace
