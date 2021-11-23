@@ -24,51 +24,34 @@ https://github.com/PmarchenkoUCode/Libmx-UCode.git
 
 <h2>Function</h2>
 
-## -------- UTILS --------
-| mx_printchar     |
-| ---------------- |
-| mx_print_unicode |
-| mx_printstr      |
-| mx_print_strarr  |
-| mx_printint      |
-| mx_pow           |
-| mx_sqrt          |
-| mx_nbr_to_hex    |
-| mx_hex_to_nbr    |
-| mx_itoa          |
-| mx_foreach       |
-| mx_binary_search |
-| mx_bubble_sort   |
-| mx_quicksort     |
-
-## ======== STRING PACK ========
-#### mx_isspace
-#### mx_strlen
-#### mx_swap_char
-#### mx_str_reverse
-#### mx_strdel
-#### mx_del_strarr
-#### mx_get_char_index
-#### mx_strdup
-#### mx_strndup
-#### mx_strcpy
-#### mx_strncpy
-#### mx_strcmp
-#### mx_strncmp
-#### mx_strcat
-#### mx_strncat 
-#### mx_strstr
-#### mx_get_substr_index
-#### mx_count_substr
-#### mx_count_words
-#### mx_strnew
-#### mx_strtrim
-#### mx_del_extra_spaces
-#### mx_strsplit
-#### mx_strjoin
-#### mx_file_to_str
-#### mx_replace_substr
-#### mx_read_line
+|      UTILS       |   STRING PACK   |
+| ---------------- |---------------- |
+| mx_printchar     |  mx_isspace
+| mx_print_unicode |  mx_strlen
+| mx_printstr      |  mx_swap_char
+| mx_print_strarr  |  mx_str_reverse
+| mx_printint      |  mx_strdel
+| mx_pow           |  mx_del_strarr
+| mx_sqrt          |  mx_get_char_index
+| mx_nbr_to_hex    |  mx_strdup
+| mx_hex_to_nbr    |  mx_strndup
+| mx_itoa          |  mx_strcpy
+| mx_foreach       |  mx_strncpy
+| mx_binary_search |  mx_strcmp
+| mx_bubble_sort   |  mx_strncmp
+| mx_quicksort     |  mx_strcat
+|                  |  mx_strncat
+|                  |  mx_strstr
+|                  |  mx_get_substr_index
+|                  |  mx_count_substr
+|                  |  mx_count_words
+|                  |  mx_strnew
+|                  |  mx_strtrim
+|                  |  mx_del_extra_spaces
+|                  |  mx_strsplit
+|                  |  mx_file_to_str
+|                  |  mx_replace_substr
+|                  |  mx_read_line
 
 ## ======== MEMORY PACK ========
 #### mx_memset
